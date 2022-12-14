@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaur1966
+- 👋 Hi, I’m @kaur1966, an actuary by trade
 - 👀 I’m interested in Fintech 
 - 🌱 I’m currently learning Product Management
 - 📫 Message me here on github for any collaboration
